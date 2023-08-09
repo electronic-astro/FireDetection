@@ -1,5 +1,6 @@
 # FireDetection
--------------------------------
+-------------------------------                                   | Write Code With: |
+                                                                  | Python & JavaScript |
 |in this project we need:|
 |--------------------------|
 | 1-fire sprinkler  | 
